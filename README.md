@@ -1,5 +1,7 @@
 # expo-router
-React native navigation using expo-router.
+React native navigation using expo-router. Stack and Tab layout.
+
+
 
 Screen structure:
 
